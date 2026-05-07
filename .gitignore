@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Local tool caches
+.mypy_cache/
+.pytest_cache/
