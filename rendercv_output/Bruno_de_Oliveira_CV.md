@@ -8,7 +8,7 @@
 
 
 # About Me
-CloudOps Engineer with 6+ years of experience in software development and cloud infrastructure across Azure environments. Strong track record in Infrastructure as Code, Kubernetes, and CI/CD, supported by a Physics Engineering background that reinforces structured problem-solving and systems thinking.
+CloudOps Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
 
 # Experience
 ## **Valtech**, CloudOps Engineer (Promoted from Associate)
@@ -19,17 +19,21 @@ Dec 2022 – present
 
 
 
-3 years 6 months
+3 years 9 months
 
 - Accelerated from Associate to Mid-level CloudOps Engineer within 18 months, currently executing Senior-level architectural responsibilities.
 
-- Architected and managed diverse Azure environments including Container Apps (ACA), Kubernetes (AKS), Function Apps, and App Services.
+- Designed and deployed standardized Infrastructure as Code patterns using Bicep and ARM templates, complemented by Terraform expertise, establishing modular, reusable templates for multi-region Azure environments.
+
+- Architected and managed diverse Azure environments including Kubernetes (AKS), Container Apps (ACA), Function Apps, and App Services with a focus on scalability, resilience, and secure operations.
+
+- Partner directly with customer engineering teams to design, implement, and ship production infrastructure changes aligned with platform and business goals.
 
 - Engineered complex networking topologies, Hub-and-Spoke models, and Virtual Machine Scale Sets (VMSS) for global client projects.
 
-- Standardized Infrastructure as Code (IaC) workflows using Terraform and Bicep to ensure 100% environment consistency.
+- Developed and optimized CI/CD pipelines in Azure DevOps and GitHub Actions, integrating infrastructure deployments to reduce lead times and improve release reliability for multi-region applications and platform services.
 
-- Developed and optimized CI/CD pipelines in Azure DevOps and GitHub Actions, reducing deployment lead times for multi-region applications.
+- Serve in Valtech's 24/7 on-call rotation, leading incident response and remediation to protect production uptime and SLA commitments across multiple customer environments.
 
 
 
@@ -45,7 +49,7 @@ Jan 2022 – Nov 2022
 
 - Developed features for European Funds applications using .NET, C#, and SQL Server for government and public institutions.
 
-- Managed application lifecycle and Azure cloud resources to improve release reliability and delivery coordination.
+- Managed application lifecycle and Azure cloud resources to improve release reliability and delivery coordination in public-sector environments.
 
 - Collaborated on the Funds Grants team to support digital transformation for large-scale public grant applications.
 
@@ -162,9 +166,11 @@ Sept 2024 – present
 
 
 # Skills
-**Cloud & Infrastructure:** Azure (AKS, ACA, Networking), AWS, Terraform, Bicep, Kubernetes
+**Cloud & Infrastructure:** Azure (AKS, ACA, Networking), AWS, Cloudflare, Terraform, Bicep, Kubernetes
 
-**DevOps & Tools:** Azure DevOps, GitHub Actions, Jenkins, Docker, Jira, Kanban, Scrum
+**DevOps & Tools:** Azure DevOps, GitHub Actions, Jenkins, Docker, GitOps Workflows, Jira, Kanban, Scrum
+
+**Operations:** Incident Response, On-Call Support, Production Troubleshooting, Reliability Engineering
 
 **Programming:** .NET Core, C#, Python, Node.js, SQL Server, MongoDB, Java, Kotlin, JavaScript, C++
 
