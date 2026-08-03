@@ -8,10 +8,10 @@
 
 
 # About Me
-CloudOps Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
+Senior Azure Platform Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
 
 # Experience
-## **Valtech**, CloudOps Engineer (Promoted from Associate)
+## **Valtech**, Platform Engineer
 
 Lisbon, Portugal
 
@@ -20,8 +20,6 @@ Dec 2022 – present
 
 
 3 years 9 months
-
-- Accelerated from Associate to Mid-level CloudOps Engineer within 18 months, currently executing Senior-level architectural responsibilities.
 
 - Designed and deployed standardized Infrastructure as Code patterns using Bicep and ARM templates, complemented by Terraform expertise, establishing modular, reusable templates for multi-region Azure environments.
 

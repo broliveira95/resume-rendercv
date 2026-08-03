@@ -6,7 +6,7 @@
   name: "Bruno de Oliveira",
   title: "Bruno de Oliveira - CV",
   footer: context { [#emph[Bruno de Oliveira -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in July 2026] ],
+  top-note: [ #emph[Last updated in Aug 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 7,
-    day: 31,
+    month: 8,
+    day: 3,
   ),
 )
 
@@ -99,15 +99,13 @@
 
 == About Me
 
-CloudOps Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI\/CD automation, reliability engineering, customer-facing delivery, and 24\/7 production operations in distributed teams.
+Senior Azure Platform Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI\/CD automation, reliability engineering, customer-facing delivery, and 24\/7 production operations in distributed teams.
 
 == Experience
 
 #regular-entry(
   [
-    #strong[Valtech], CloudOps Engineer (Promoted from Associate)
-
-    - Accelerated from Associate to Mid-level CloudOps Engineer within 18 months, currently executing Senior-level architectural responsibilities.
+    #strong[Valtech], Platform Engineer
 
     - Designed and deployed standardized Infrastructure as Code patterns using Bicep and ARM templates, complemented by Terraform expertise, establishing modular, reusable templates for multi-region Azure environments.
 
