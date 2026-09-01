@@ -6,7 +6,7 @@
   name: "Bruno de Oliveira",
   title: "Bruno de Oliveira - CV",
   footer: context { [#emph[Bruno de Oliveira -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Aug 2026] ],
+  top-note: [ #emph[Last updated in Sept 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 8,
-    day: 3,
+    month: 9,
+    day: 1,
   ),
 )
 
@@ -99,7 +99,7 @@
 
 == About Me
 
-Senior Azure Platform Engineer with 6+ years of experience building and operating scalable cloud platforms and distributed application infrastructure. Strong track record in Infrastructure as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI\/CD automation, reliability engineering, customer-facing delivery, and 24\/7 production operations in distributed teams.
+Senior Azure Platform Engineer with 6+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI\/CD automation, observability, reliability engineering, customer-facing delivery, and 24\/7 production operations in distributed teams.
 
 == Experience
 
@@ -107,15 +107,21 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
   [
     #strong[Valtech], Platform Engineer
 
-    - Designed and deployed standardized Infrastructure as Code patterns using Bicep and ARM templates, complemented by Terraform expertise, establishing modular, reusable templates for multi-region Azure environments.
+    - Contributing to architecture decisions and broader platform responsibilities.
+
+    - Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates, and Terraform, establishing modular, reusable foundations for multi-region Azure environments.
 
     - Architected and managed diverse Azure environments including Kubernetes (AKS), Container Apps (ACA), Function Apps, and App Services with a focus on scalability, resilience, and secure operations.
+
+    - Supported delivery of AI-related product initiatives, using AI-assisted development practices to accelerate implementation and improve engineering efficiency.
 
     - Partner directly with customer engineering teams to design, implement, and ship production infrastructure changes aligned with platform and business goals.
 
     - Engineered complex networking topologies, Hub-and-Spoke models, and Virtual Machine Scale Sets (VMSS) for global client projects.
 
-    - Developed and optimized CI\/CD pipelines in Azure DevOps and GitHub Actions, integrating infrastructure deployments to reduce lead times and improve release reliability for multi-region applications and platform services.
+    - Developed and optimized Git-based CI\/CD pipelines in Azure DevOps and GitHub Actions, integrating infrastructure deployments to reduce lead times and improve release reliability for multi-region applications and platform services.
+
+    - Implemented monitoring and operational dashboards with Prometheus and Grafana to improve platform visibility, alerting effectiveness, and incident response.
 
     - Serve in Valtech's 24\/7 on-call rotation, leading incident response and remediation to protect production uptime and SLA commitments across multiple customer environments.
 
@@ -127,7 +133,7 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 
     
 
-    3 years 9 months
+    3 years 10 months
 
   ],
 )
@@ -290,6 +296,8 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
   [
     #strong[Microsoft Certified: DevOps Engineer Expert]
 
+    #summary[#link("https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/A6949077E126F130?sharingId=4BA73CC3FC18E2F6")[Verify credential]]
+
   ],
   [
   ],
@@ -298,6 +306,8 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 #regular-entry(
   [
     #strong[Microsoft Certified: Azure Administrator Associate]
+
+    #summary[#link("https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/4C358EB387FB4A74?sharingId=4BA73CC3FC18E2F6")[Verify credential]]
 
   ],
   [
@@ -308,6 +318,8 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
   [
     #strong[Microsoft Certified: Azure Fundamentals]
 
+    #summary[#link("https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/E62E334FAD9241BE?sharingId=4BA73CC3FC18E2F6")[Verify credential]]
+
   ],
   [
   ],
@@ -317,11 +329,11 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 
 #strong[Cloud & Infrastructure:] Azure (AKS, ACA, Networking), AWS, Cloudflare, Terraform, Bicep, Kubernetes
 
-#strong[DevOps & Tools:] Azure DevOps, GitHub Actions, Jenkins, Docker, GitOps Workflows, Jira, Kanban, Scrum
+#strong[DevOps & Tools:] Azure DevOps, GitHub Actions, Jenkins, Docker, Git-based Workflows, GitOps Workflows, Jira, Kanban, Scrum, FluxCD, ArgoCD, Prometheus, Grafana, Datadog, Dynatrace
 
 #strong[Operations:] Incident Response, On-Call Support, Production Troubleshooting, Reliability Engineering
 
-#strong[Programming:] .NET Core, C\#, Python, Node.js, SQL Server, MongoDB, Java, Kotlin, JavaScript, C++
+#strong[Programming:] .NET Core, C\#, Python, Node.js, Bash, PowerShell, SQL Server, PostgreSQL, MongoDB, Java, Kotlin, JavaScript, C++
 
 #strong[Languages:] Portuguese (Native), English (Professional Working), French (Elementary), Spanish (Elementary)
 
