@@ -16,7 +16,7 @@ cv:
 
     experience:
       - company: Valtech
-        position: Platform Engineer
+        position: Senior Cloud Engineer
         location: Lisbon, Portugal
         start_date: 2022-12-01
         end_date: present
@@ -101,6 +101,8 @@ cv:
           - Support community growth by encouraging peer networking and experience sharing across different seniority levels.
 
     certifications:
+      - name: "Microsoft Certified: Azure Solutions Architect Expert"
+        summary: "[Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/E06927A2ECEA64C9?sharingId=4BA73CC3FC18E2F6)"
       - name: "Microsoft Certified: DevOps Engineer Expert"
         summary: "[Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/A6949077E126F130?sharingId=4BA73CC3FC18E2F6)"
       - name: "Microsoft Certified: Azure Administrator Associate"

@@ -6,7 +6,7 @@
   name: "Bruno de Oliveira",
   title: "Bruno de Oliveira - CV",
   footer: context { [#emph[Bruno de Oliveira -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Sept 2026] ],
+  top-note: [ #emph[Last updated in Oct 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,7 +80,7 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 9,
+    month: 10,
     day: 1,
   ),
 )
@@ -105,7 +105,7 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 
 #regular-entry(
   [
-    #strong[Valtech], Platform Engineer
+    #strong[Valtech], Senior Cloud Engineer
 
     - Contributing to architecture decisions and broader platform responsibilities.
 
@@ -133,7 +133,7 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 
     
 
-    3 years 10 months
+    3 years 11 months
 
   ],
 )
@@ -291,6 +291,17 @@ Senior Azure Platform Engineer with 6+ years of experience building and operatin
 )
 
 == Certifications
+
+#regular-entry(
+  [
+    #strong[Microsoft Certified: Azure Solutions Architect Expert]
+
+    #summary[#link("https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/E06927A2ECEA64C9?sharingId=4BA73CC3FC18E2F6")[Verify credential]]
+
+  ],
+  [
+  ],
+)
 
 #regular-entry(
   [

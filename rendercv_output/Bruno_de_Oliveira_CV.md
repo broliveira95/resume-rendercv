@@ -11,7 +11,7 @@
 Senior Azure Platform Engineer with 6+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, observability, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
 
 # Experience
-## **Valtech**, Platform Engineer
+## **Valtech**, Senior Cloud Engineer
 
 Lisbon, Portugal
 
@@ -19,7 +19,7 @@ Dec 2022 – present
 
 
 
-3 years 10 months
+3 years 11 months
 
 - Contributing to architecture decisions and broader platform responsibilities.
 
@@ -157,6 +157,12 @@ Sept 2024 – present
 
 
 # Certifications
+## **Microsoft Certified: Azure Solutions Architect Expert**
+
+[Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/E06927A2ECEA64C9?sharingId=4BA73CC3FC18E2F6)
+
+
+
 ## **Microsoft Certified: DevOps Engineer Expert**
 
 [Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/broliveira95/A6949077E126F130?sharingId=4BA73CC3FC18E2F6)
