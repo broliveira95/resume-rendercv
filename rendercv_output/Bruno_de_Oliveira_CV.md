@@ -8,7 +8,7 @@
 
 
 # About Me
-Senior Azure Platform Engineer with 6+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, observability, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
+Senior Azure Platform Engineer with 8+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, observability, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
 
 # Experience
 ## **Valtech**, Senior Cloud Engineer
