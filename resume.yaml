@@ -12,7 +12,11 @@ cv:
 
   sections:
     about_me:
-      - Senior Azure Platform Engineer with 8+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, observability, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
+      - 'Senior Azure Platform Engineer with 8+ years of experience designing, building, and operating secure, scalable
+        cloud platforms. Strong expertise in Infrastructure as Code using Bicep, ARM templates, and Terraform, alongside
+        Azure networking, IAM and cloud security, Kubernetes, CI/CD automation, observability, and production operations. Experienced in standardizing
+        reusable infrastructure, improving deployment reliability, troubleshooting production environments, and partnering
+        with development teams to deliver platform capabilities. Microsoft Certified: Azure Solutions Architect Expert.'
 
     experience:
       - company: Valtech
@@ -21,15 +25,24 @@ cv:
         start_date: 2022-12-01
         end_date: present
         highlights:
-          - Contributing to architecture decisions and broader platform responsibilities.
-          - Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates, and Terraform, establishing modular, reusable foundations for multi-region Azure environments.
-          - Architected and managed diverse Azure environments including Kubernetes (AKS), Container Apps (ACA), Function Apps, and App Services with a focus on scalability, resilience, and secure operations.
-          - Supported delivery of AI-related product initiatives, using AI-assisted development practices to accelerate implementation and improve engineering efficiency.
-          - Partner directly with customer engineering teams to design, implement, and ship production infrastructure changes aligned with platform and business goals.
-          - Engineered complex networking topologies, Hub-and-Spoke models, and Virtual Machine Scale Sets (VMSS) for global client projects.
-          - Developed and optimized Git-based CI/CD pipelines in Azure DevOps and GitHub Actions, integrating infrastructure deployments to reduce lead times and improve release reliability for multi-region applications and platform services.
-          - Implemented monitoring and operational dashboards with Prometheus and Grafana to improve platform visibility, alerting effectiveness, and incident response.
-          - Serve in Valtech's 24/7 on-call rotation, leading incident response and remediation to protect production uptime and SLA commitments across multiple customer environments.
+          - Contribute to cloud architecture decisions and platform engineering practices for customer environments.
+          - Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates,
+            and Terraform, creating modular, reusable foundations for multi-region Azure environments and enabling
+            self-service for development teams.
+          - Architect and operate Azure workloads across AKS, Azure Container Apps, Azure Functions, App Services, and Azure Storage, with a focus on scalability, resilience, and secure operations.
+          - Improve cloud security across Azure environments using IAM and RBAC, Azure Key Vault for secrets management, and secure network configuration.
+          - Engineer Azure networking topologies, including Hub-and-Spoke architectures and Virtual Machine Scale Sets
+            (VMSS), for global client projects.
+          - Develop and optimize CI/CD pipelines using Azure DevOps and GitHub Actions, integrating infrastructure deployments
+            to improve delivery lead times and release reliability.
+          - Partner directly with customer engineering teams to design, implement, troubleshoot, and deliver production
+            infrastructure changes aligned with platform and business goals.
+          - Implement monitoring and operational dashboards with Prometheus and Grafana to improve platform visibility,
+            alerting, and incident response.
+          - Participate in a 24/7 on-call rotation, leading production incident response and remediation to protect
+            uptime and SLA commitments across customer environments.
+          - Support AI-related product initiatives, using AI-assisted development practices to accelerate implementation
+            and improve engineering efficiency.
 
       - company: Axians
         position: Software Engineer
@@ -37,8 +50,10 @@ cv:
         start_date: 2022-01-01
         end_date: 2022-11-01
         highlights:
-          - Developed features for European Funds applications using .NET, C#, and SQL Server for government and public institutions.
-          - Managed application lifecycle and Azure cloud resources to improve release reliability and delivery coordination in public-sector environments.
+          - Developed features for European Funds applications using .NET, C#, and SQL Server for government and public
+            institutions.
+          - Managed application lifecycle and Azure cloud resources to improve release reliability and delivery coordination
+            in public-sector environments.
           - Collaborated on the Funds Grants team to support digital transformation for large-scale public grant applications.
 
       - company: Papersoft
@@ -47,9 +62,10 @@ cv:
         start_date: 2021-01-01
         end_date: 2022-01-01
         highlights:
-          - Engineered backend services for Waynbo, a software solution for banking and telecommunications delivery in complex markets.
-          - Maintained and optimized deployment pipelines using Jenkins and Azure to accelerate onboarding of new client projects.
-          - Managed data persistence and migration across SQL Server and MongoDB to improve data continuity during rollouts.
+          - Engineered backend services for Waynbo, a software solution supporting banking and telecommunications delivery
+            in complex markets.
+          - Maintained and optimized Jenkins and Azure deployment pipelines to accelerate onboarding of new client projects.
+          - Managed SQL Server and MongoDB data persistence and migration to improve data continuity during rollouts.
 
       - company: Wide Open West
         position: Software Engineer
@@ -57,7 +73,8 @@ cv:
         start_date: 2019-11-01
         end_date: 2021-01-01
         highlights:
-          - Automated internal processes for cable, high-speed data, and voice installation services for the 6th largest US cable operator.
+          - Automated internal processes for cable, high-speed data, and voice installation services for the 6th largest
+            US cable operator.
           - Built and maintained AWS-based pipelines and backend services using Node.js and Jenkins.
           - Contributed to architectural discussions and designed system diagrams to improve automation efficiency.
 
@@ -82,7 +99,7 @@ cv:
     education:
       - institution: Universidade de Coimbra
         area: Integrated Master's in Physics Engineering
-        degree: MSc 
+        degree: MSc
         start_date: 2013-09-01
         end_date: 2018-09-01
         highlights:
@@ -99,6 +116,8 @@ cv:
           - Coordinate event planning, speaker alignment, and session topics with community and partner stakeholders.
           - Promote practical learning through talks and discussions on platform engineering, DevOps, and responsible AI adoption.
           - Support community growth by encouraging peer networking and experience sharing across different seniority levels.
+          - 'Speaker, Global Azure Portugal (May 2025): "Kill the Secrets, Keep the State: Terraform CI with GitHub Actions", covering secretless OIDC authentication to Azure, remote Terraform state, and tflint/tfsec checks in CI.'
+          - 'Speaker, AZUGPT Meetup (Mar 2025): "Taming the AI Beast: Running Models Without the Overhead", covering containerized and GPU-backed AI workloads on Azure Container Apps.'
 
     certifications:
       - name: "Microsoft Certified: Azure Solutions Architect Expert"
@@ -112,7 +131,7 @@ cv:
 
     skills:
       - label: Cloud & Infrastructure
-        details: Azure (AKS, ACA, Networking), AWS, Cloudflare, Terraform, Bicep, Kubernetes
+        details: Azure (AKS, ACA, Networking, Key Vault, Storage, IAM/RBAC), AWS, Cloudflare, Terraform, Bicep, Kubernetes
       - label: DevOps & Tools
         details: Azure DevOps, GitHub Actions, Jenkins, Docker, Git-based Workflows, GitOps Workflows, Jira, Kanban, Scrum, FluxCD, ArgoCD, Prometheus, Grafana, Datadog, Dynatrace
       - label: Operations
@@ -126,9 +145,6 @@ cv:
       - bullet: "2024 - Certified Kubernetes Administrator (CKA) Preparation Course (Udemy)"
       - bullet: "2023 - AZ-900 Preparation Course (Udemy)"
       - bullet: "2023 - Terraform on Azure (Udemy)"
-      - bullet: "2020 - Introduction to Docker Containers (InnoWave)"
-      - bullet: "2019 - Introduction to Machine Learning with Python (InnoWave)"
-      - bullet: "2019 - ASP.NET, C#, .NET Core, and Transact-SQL (InnoWave)"
 
     publications:
       - title: Battery-free sensors with wireless capabilities for soft and biocompatible monitoring
@@ -140,6 +156,11 @@ cv:
 
 design:
   theme: classic
+  typography:
+    alignment: justified-with-no-hyphenation
+  header:
+    connections:
+      phone_number_format: international
   colors:
     body: rgb(38, 50, 56)
     name: rgb(13, 92, 99)

@@ -8,7 +8,7 @@
 
 
 # About Me
-Senior Azure Platform Engineer with 8+ years of experience building and operating secure, scalable cloud platforms for application and data-intensive workloads. Strong track record in Infrastructure and Policy as Code with Bicep, ARM templates, and Terraform, complemented by Kubernetes, networking-focused platform engineering, CI/CD automation, observability, reliability engineering, customer-facing delivery, and 24/7 production operations in distributed teams.
+Senior Azure Platform Engineer with 8+ years of experience designing, building, and operating secure, scalable cloud platforms. Strong expertise in Infrastructure as Code using Bicep, ARM templates, and Terraform, alongside Azure networking, IAM and cloud security, Kubernetes, CI/CD automation, observability, and production operations. Experienced in standardizing reusable infrastructure, improving deployment reliability, troubleshooting production environments, and partnering with development teams to deliver platform capabilities. Microsoft Certified: Azure Solutions Architect Expert.
 
 # Experience
 ## **Valtech**, Senior Cloud Engineer
@@ -21,23 +21,25 @@ Dec 2022 – present
 
 3 years 11 months
 
-- Contributing to architecture decisions and broader platform responsibilities.
+- Contribute to cloud architecture decisions and platform engineering practices for customer environments.
 
-- Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates, and Terraform, establishing modular, reusable foundations for multi-region Azure environments.
+- Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates, and Terraform, creating modular, reusable foundations for multi-region Azure environments and enabling self-service for development teams.
 
-- Architected and managed diverse Azure environments including Kubernetes (AKS), Container Apps (ACA), Function Apps, and App Services with a focus on scalability, resilience, and secure operations.
+- Architect and operate Azure workloads across AKS, Azure Container Apps, Azure Functions, App Services, and Azure Storage, with a focus on scalability, resilience, and secure operations.
 
-- Supported delivery of AI-related product initiatives, using AI-assisted development practices to accelerate implementation and improve engineering efficiency.
+- Improve cloud security across Azure environments using IAM and RBAC, Azure Key Vault for secrets management, and secure network configuration.
 
-- Partner directly with customer engineering teams to design, implement, and ship production infrastructure changes aligned with platform and business goals.
+- Engineer Azure networking topologies, including Hub-and-Spoke architectures and Virtual Machine Scale Sets (VMSS), for global client projects.
 
-- Engineered complex networking topologies, Hub-and-Spoke models, and Virtual Machine Scale Sets (VMSS) for global client projects.
+- Develop and optimize CI/CD pipelines using Azure DevOps and GitHub Actions, integrating infrastructure deployments to improve delivery lead times and release reliability.
 
-- Developed and optimized Git-based CI/CD pipelines in Azure DevOps and GitHub Actions, integrating infrastructure deployments to reduce lead times and improve release reliability for multi-region applications and platform services.
+- Partner directly with customer engineering teams to design, implement, troubleshoot, and deliver production infrastructure changes aligned with platform and business goals.
 
-- Implemented monitoring and operational dashboards with Prometheus and Grafana to improve platform visibility, alerting effectiveness, and incident response.
+- Implement monitoring and operational dashboards with Prometheus and Grafana to improve platform visibility, alerting, and incident response.
 
-- Serve in Valtech's 24/7 on-call rotation, leading incident response and remediation to protect production uptime and SLA commitments across multiple customer environments.
+- Participate in a 24/7 on-call rotation, leading production incident response and remediation to protect uptime and SLA commitments across customer environments.
+
+- Support AI-related product initiatives, using AI-assisted development practices to accelerate implementation and improve engineering efficiency.
 
 
 
@@ -69,11 +71,11 @@ Jan 2021 – Jan 2022
 
 1 year 1 month
 
-- Engineered backend services for Waynbo, a software solution for banking and telecommunications delivery in complex markets.
+- Engineered backend services for Waynbo, a software solution supporting banking and telecommunications delivery in complex markets.
 
-- Maintained and optimized deployment pipelines using Jenkins and Azure to accelerate onboarding of new client projects.
+- Maintained and optimized Jenkins and Azure deployment pipelines to accelerate onboarding of new client projects.
 
-- Managed data persistence and migration across SQL Server and MongoDB to improve data continuity during rollouts.
+- Managed SQL Server and MongoDB data persistence and migration to improve data continuity during rollouts.
 
 
 
@@ -154,6 +156,10 @@ Sept 2024 – present
 
 - Support community growth by encouraging peer networking and experience sharing across different seniority levels.
 
+- Speaker, Global Azure Portugal (May 2025): "Kill the Secrets, Keep the State: Terraform CI with GitHub Actions", covering secretless OIDC authentication to Azure, remote Terraform state, and tflint/tfsec checks in CI.
+
+- Speaker, AZUGPT Meetup (Mar 2025): "Taming the AI Beast: Running Models Without the Overhead", covering containerized and GPU-backed AI workloads on Azure Container Apps.
+
 
 
 # Certifications
@@ -182,7 +188,7 @@ Sept 2024 – present
 
 
 # Skills
-**Cloud & Infrastructure:** Azure (AKS, ACA, Networking), AWS, Cloudflare, Terraform, Bicep, Kubernetes
+**Cloud & Infrastructure:** Azure (AKS, ACA, Networking, Key Vault, Storage, IAM/RBAC), AWS, Cloudflare, Terraform, Bicep, Kubernetes
 
 **DevOps & Tools:** Azure DevOps, GitHub Actions, Jenkins, Docker, Git-based Workflows, GitOps Workflows, Jira, Kanban, Scrum, FluxCD, ArgoCD, Prometheus, Grafana, Datadog, Dynatrace
 
@@ -198,12 +204,6 @@ Sept 2024 – present
 - 2023 - AZ-900 Preparation Course (Udemy)
 
 - 2023 - Terraform on Azure (Udemy)
-
-- 2020 - Introduction to Docker Containers (InnoWave)
-
-- 2019 - Introduction to Machine Learning with Python (InnoWave)
-
-- 2019 - ASP.NET, C#, .NET Core, and Transact-SQL (InnoWave)
 
 # Publications
 ## **Battery-free sensors with wireless capabilities for soft and biocompatible monitoring**
