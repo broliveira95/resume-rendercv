@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 10,
-    day: 16,
+    day: 17,
   ),
 )
 
@@ -111,7 +111,7 @@ Senior Azure Platform Engineer with 8+ years of experience designing, building, 
 
     - Designed and deployed standardized Infrastructure and Policy as Code patterns using Bicep, ARM templates, and Terraform, creating modular, reusable foundations for multi-region Azure environments and enabling self-service for development teams.
 
-    - Architect and operate Azure workloads across AKS, Azure Container Apps, Azure Functions, App Services, and Azure Storage, with a focus on scalability, resilience, and secure operations.
+    - Architect and operate Azure workloads across AKS, Azure Container Apps, Azure Functions, and App Services, with a focus on scalability, resilience, and secure operations.
 
     - Improve cloud security across Azure environments using IAM and RBAC, Azure Key Vault for secrets management, and secure network configuration.
 
@@ -344,7 +344,7 @@ Senior Azure Platform Engineer with 8+ years of experience designing, building, 
 
 == Skills
 
-#strong[Cloud & Infrastructure:] Azure (AKS, ACA, Networking, Key Vault, Storage, IAM\/RBAC), AWS, Cloudflare, Terraform, Bicep, Kubernetes
+#strong[Cloud & Infrastructure:] Azure (AKS, ACA, Networking, Key Vault, Storage, IAM\/RBAC, etc...), AWS, Cloudflare, Terraform, Bicep, Kubernetes
 
 #strong[DevOps & Tools:] Azure DevOps, GitHub Actions, Jenkins, Docker, Git-based Workflows, GitOps Workflows, Jira, Kanban, Scrum, FluxCD, ArgoCD, Prometheus, Grafana, Datadog, Dynatrace
 
